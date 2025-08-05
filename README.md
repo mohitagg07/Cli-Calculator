@@ -19,15 +19,24 @@ This is a simple and interactive **Command-Line Calculator App** built with Pyth
 
 ##  Sample Output
 🔢 Calculator Menu:
+
 1 ➤ Add
+
 2 ➤ Subtract
+
 3 ➤ Multiply
+
 4 ➤ Divide
+
 5 ➤ Exit
 
 Choose an option (1–5): 1
+
 Enter first number ➜ 10
+
 Enter second number ➜ 20
+
 ✅ Result: 10.0 + 20.0 = 30.0
+
 
 
